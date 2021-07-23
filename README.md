@@ -2,13 +2,7 @@
 这是关于此漏洞的利用POC
 ===============================
 利用方式：
-    print('+------------------------------------------')
-    print('+  搜索方式: ')
-    print('+  Title:迈普通信技术股份有限公司 ')
-    print('+  漏洞点: ')
-    print('+  file_name可以任意文件下载 ')
-    print('+  使用格式:')
-    print('+  python3 poc.py')
-    print('+  Url >>> http://xxx.xxx.xxx.xxx ')
-    print('+  请勿使用在非法用途，概不负责 ')
-    print('+------------------------------------------')
+    
+    #python3 poc.py
+    
+    #Url >>> http://xxx.xxx.xxx.xxx
