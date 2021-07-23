@@ -1,2 +1,2 @@
-# MP-ISG1000AnyFileDownload
+# MP-ISG1000任意文件下载
 这是关于此漏洞的利用POC
